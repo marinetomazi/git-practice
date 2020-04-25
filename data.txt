@@ -1,0 +1,3 @@
+Name : Marine
+Age: 31
+Favorite color: Blue
